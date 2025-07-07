@@ -1,3 +1,43 @@
+# 🌱 TreeKind NGO Website
+
+Official website for **TreeKind NGO**, a non-profit organization focused on reforestation and environmental awareness.
+
+Built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **Shadcn UI**, this project aims to deliver a performant, accessible, and engaging experience for visitors and donors.
+
+---
+
+## 🚀 Features
+
+✅ **Fully Responsive & Accessible** — Mobile-first design with semantic HTML and accessible UI patterns.  
+✅ **Modern Tech Stack** — Next.js, Vite, TypeScript, Tailwind CSS, Shadcn UI.  
+✅ **Dynamic UI Components** — Reusable components for consistent, scalable design.  
+✅ **Automated Testing** — End-to-end testing with Jest, Cypress, and Playwright.  
+✅ **AI-Powered Chatbot** — Integrated OpenAI API to assist users and answer FAQs.  
+✅ **Continuous Monitoring** — Deployed on Vercel, with error tracking via Sentry and performance checks using Lighthouse.  
+✅ **Collaborative Design** — Built in close collaboration with non-technical stakeholders.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** Next.js, React, TypeScript
+- **Styling:** Tailwind CSS, Shadcn UI
+- **Bundler:** Vite
+- **Testing:** Jest, Cypress, Playwright
+- **Deployment:** Vercel
+- **Monitoring:** Sentry, Lighthouse
+- **AI:** OpenAI API
+
+---
+
+## 📦 Installation
+
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/your-username/treekind-ngo-website.git
+   cd treekind-ngo-website
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
